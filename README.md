@@ -184,11 +184,10 @@ NOW Deploy👇
  <p align="center">
    
   ## ``Support Group``
-   
-   [![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
-
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+    
+<a aria-label="Join our chats" href="https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    (https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW)
 </p>
 
 - **Patron Support:** [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
